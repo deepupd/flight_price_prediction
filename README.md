@@ -3,13 +3,23 @@ As several air ticket booking corporations are popping up online, passengers are
 
 Data Description
 flight_name: The name of the airline.
+
 departure_time: The time when the journey starts from the source.
+
 departure_city: The source of travel.
+
 flight_duration: Total duration of the flight.
+
 arrival_time: Time of arrival at the destination.
+
 arrival_city: The destination of travel.
+
 Route: The route taken by the flight to reach the destination.
+
 flight_cost: The price of the ticket. (Target Variable)
+
 total_stops: Total stops between the source and destination.
+
 Date_of_Journey: The date of the journey.
+
 Day_of_Booking : Date when the data was fetched (we will assume it to be the date of booking)
